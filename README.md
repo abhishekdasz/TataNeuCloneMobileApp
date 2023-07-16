@@ -3,6 +3,8 @@
 Output of this app 
 ![outputs](https://github.com/abhishekdasz/TataNeuCloneMobileApp/assets/87275238/b2c889db-2223-4328-9a20-a88adbd34541)
 
+![Untitled](https://github.com/abhishekdasz/TataNeuCloneMobileApp/assets/87275238/9cc897d2-d48b-49ab-8e4e-70acd731f86d)
+
 You can run this app by scanning this QR Code:
 1) First Download "Expo Go" app from Google Play Store or App Store
 2) Then scan the QR Code in "Scan QR Code" or paste the link in "Enter URL manually"
