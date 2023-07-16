@@ -1,5 +1,8 @@
 # TataNeuCloneMobileApp
 
 Output of this app 
-<img src="https://github.com/abhishekdasz/TataNeuCloneMobileApp/blob/main/assets/87275238/b2c889db-2223-4328-9a20-a88adbd34541" alt="outputs" style="width: 300px; height: auto;">
 ![outputs](https://github.com/abhishekdasz/TataNeuCloneMobileApp/assets/87275238/b2c889db-2223-4328-9a20-a88adbd34541)
+
+You can run this app by scanning this QR Code:
+1) First Download Expo Go app from Google Play Store or App Store
+2) Then scan this QR Code or paste this link
